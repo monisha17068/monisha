@@ -37,7 +37,7 @@ for(int var1=0; var1 < 5 ; var1++)
                 System.out.println(“var1:” + var1 + “, var2:” + var2);
 
                 if(var1 == 3)
-                        break Outer;
+                        break Outer10000000000
 
         }
 }
