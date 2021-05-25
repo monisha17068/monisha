@@ -45,5 +45,6 @@ public class ArrayListToStringArrayExample {
  ArrayList converted to String array
  Sunday
  Monday
- Tuesday
+ Tuesday 
+ new day 
  */
